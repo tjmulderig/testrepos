@@ -1,2 +1,2 @@
 # testrepos
-Test to practice starting repositories and new files
+Test to practice starting repositories and new files.
